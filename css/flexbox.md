@@ -1,0 +1,5 @@
+# 📐 Flexbox
+
+```css
+display: flex;
+```
