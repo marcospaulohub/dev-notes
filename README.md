@@ -15,6 +15,8 @@ Organizado por tecnologia para facilitar consultas futuras.
 
 ## 🟨 JavaScript
 - [Funções](./javascript/funcoes.md)
+- [Objetos](./javascript/objetos.md)
+- [Clones de Objetos](./javascript/clone-objeto.md)
 - [Promessas](./javascript/promessas.md)
 - [Métodos de Array](./javascript/array-metodos.md)
 
