@@ -14,6 +14,7 @@ Organizado por tecnologia para facilitar consultas futuras.
 - [Design Patterns](./csharp/patterns.md)
 
 ## 🟨 JavaScript
+- [Principais Métodos](./javascript/principais-metodos.md)
 - [Funções](./javascript/funcoes.md)
 - [Objetos](./javascript/objetos.md)
 - [Clones de Objetos](./javascript/clone-objeto.md)

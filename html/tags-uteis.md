@@ -4,10 +4,10 @@ O **HTML** usa algo chamado modelo de caixa. A questão é que tudo no HTML é c
 
 <img src="./imgs/html-box.png" alt="texto alternativo" width="550" height="320">
 
-* M - Magin
-* B - Borda
-* P - Padding
-* C - Content
+- **M** - Magin
+- **B** - Border
+- **P** - Padding
+- **C** - Content
 
 ## `<span></span>`
 O elemento `<span>` é usado para aplicar estilos a partes do texto.
