@@ -1,14 +1,8 @@
 # 🔤 Tags HTML mais usadas
 
-O HTML usa algo chamado modelo de caixa. A questão é que tudo no HTML é considerado uma **caixa dentro de outra caixa**
+O **HTML** usa algo chamado modelo de caixa. A questão é que tudo no HTML é considerado uma **caixa dentro de outra caixa**
 
-<div style="border: 5px solid black; padding: 20px; width: 400px; text-align:left;background-color: grey;">M
-<div style="border: 5px solid black; padding: 4px; width: 350px; text-align:left;background-color: black;">B
-    <div style="border: 5px solid black; padding: 10px; margin: 10px; width: 300px; text-align:left;background-color: green;">P
-        <div style="border: 5px dashed  red; padding: 5px; margin-top: 1px;text-align:center;">C</div>
-    </div>
-</div>
-</div>
+![html-box](./imgs/html-box.png)
 
 * M - Magin
 * B - Borda
