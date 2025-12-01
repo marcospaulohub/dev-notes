@@ -2,7 +2,7 @@
 
 O **HTML** usa algo chamado modelo de caixa. A questão é que tudo no HTML é considerado uma **caixa dentro de outra caixa**
 
-![html-box](./imgs/html-box.png)
+<img src="./imgs/html-box.png" alt="texto alternativo" width="550" height="320">
 
 * M - Magin
 * B - Borda
