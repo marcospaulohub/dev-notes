@@ -18,6 +18,7 @@ Organizado por tecnologia para facilitar consultas futuras.
 - [Funções](./javascript/funcoes.md)
 - [Objetos](./javascript/objetos.md)
 - [Clones de Objetos](./javascript/clone-objeto.md)
+- [Map,Filter,Reduce](./javascript/map-filter-reduce.md)
 - [Promessas](./javascript/promessas.md)
 - [Métodos de Array](./javascript/array-metodos.md)
 
