@@ -8,6 +8,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NVM](https://img.shields.io/badge/nvm-43853d?style=for-the-badge&logo=npm&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ---
 
@@ -94,7 +98,7 @@ git commit -m "Commit inicial: Estrutura do projeto"
 
 ---
 
-## 📊 Tabelas de Referência
+## 📊 Tabelas de Referência 
 
 Tabelas são excelentes para atalhos de teclado ou comparação de comandos.
 
@@ -137,4 +141,12 @@ Tabelas são excelentes para atalhos de teclado ou comparação de comandos.
 
 A resposta correta é utilizar o método `.map()` para iterar sobre o array.
 </details>
+
+---
+## 🙂 Site com Emojis, Icons e Gifs
+- [Emojis](https://emojicopy.com/)
+- [Icons](https://simpleicons.org/)
+- [Gifs](https://giphy.com/)
+
+--- 
 

@@ -38,10 +38,10 @@ Organizado por tecnologia para facilitar consultas futuras.
 - [Comandos](./docker/comandos.md)
 - [Exemplos Docker Compose](./docker/docker-compose-exemplos.md)
 
-## 🔧 NVM
+## ⚙️ NVM
 - [Comando](./nvm/comandos.md)
 
-## 🌀 Git
+## 🏹 Git
 - [Guia básico](./git/guia-basico.md)
 
 
