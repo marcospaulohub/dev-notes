@@ -32,6 +32,7 @@ Organizado por tecnologia para facilitar consultas futuras.
 ## 🔴 Angular
 - [Comandos CLI](./angular/comandos-cli.md)
 - [Componentes](./angular/componentes.md)
+- [Serviços](./angular/servicos.md)
 - [Rotas](./angular/rotas.md)
 
 ## 🐋 Docker
