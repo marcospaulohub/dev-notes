@@ -26,6 +26,7 @@ Organizado por tecnologia para facilitar consultas futuras.
 - [Tags mais usadas](./html/tags-uteis.md)
 
 ## 🟣 CSS
+- [Básico](./css/basico.md)
 - [Flexbox](./css/flexbox.md)
 - [Grid](./css/grid.md)
 
