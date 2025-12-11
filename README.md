@@ -45,6 +45,8 @@ Organizado por tecnologia para facilitar consultas futuras.
 ## 🏹 Git
 - [Guia básico](./git/guia-basico.md)
 
+## 💻 VS Code
+- [Guia básico](./vscode/comandos.md)
 
 ## 📚 Markdown 
 - [Exemplos](./markdown/exemplos.md) 
